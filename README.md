@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hola, soy Josué 👋
 
-<!--
-**Joshua177-k/Joshua177-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Python autodidacta enfocado en análisis de datos y construcción
+de interfaces gráficas. Apasionado por convertir datos en decisiones y crear
+herramientas visuales con Kivy.
 
-Here are some ideas to get you started:
+## 🛠️ Stack principal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
+![Kivy](https://img.shields.io/badge/Kivy-000000?style=flat&logo=kivy&logoColor=white)
+
+## 📚 Actualmente aprendiendo
+
+- Limpieza y visualización de datos reales
+- Construcción de apps con Kivy
+- Análisis exploratorio con datasets del mundo real
+
+## 📍 Bogotá, Colombia
